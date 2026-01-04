@@ -113414,7 +113414,7 @@ m.push(A.c7(A.a([A.b1(A.a([k,j,A.a9(c,A.a2(l,c,c,c,c,g,c,c),B.E,c,c,new A.aR(B.d
 o=A.e1(!1,c,!0,A.b1(A.a([A.b1(m,B.P,B.S,B.L)],n),B.P,B.aP,B.L),c,!0,c,c,c,c,c,c,c,o,c,c,c)
 m=A.dm(0,300,0)
 if(d.e){l=A.aF(c,20,c)
-k=A.a2("\u0628\u064a\u0646\u0627\u062a \u0627\u0644\u0637\u0644\u0628",c,c,c,c,b.r,c,c)
+k=A.a2("\u0627\u0644\u0637\u0644\u0628",c,c,c,c,b.r,c,c)
 j=A.aF(c,10,c)
 i=A.c7(A.xM(d.a.y.length,new A.aB2(d,b),!0,t.l7),B.P,B.S,B.L)
 h=A.aF(c,20,c)
